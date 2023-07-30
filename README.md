@@ -1,2 +1,2 @@
 # microblog-app
-implementing a console based microblogging app 
+Implementing a console based microblogging app 
